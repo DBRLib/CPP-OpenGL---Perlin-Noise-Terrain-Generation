@@ -1,0 +1,3 @@
+﻿  pnTerrainGeneration.cpp
+D:\Public Repo\CPP - Perlin Noise Terain generation\PNTG\pnTerrainGeneration\pnTerrainGeneration\pnTerrainGeneration.cpp(89,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  pnTerrainGeneration.vcxproj -> D:\Public Repo\CPP - Perlin Noise Terain generation\PNTG\pnTerrainGeneration\Debug\pnTerrainGeneration.exe
